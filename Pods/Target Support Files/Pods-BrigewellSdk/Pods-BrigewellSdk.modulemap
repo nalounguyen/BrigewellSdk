@@ -1,6 +1,0 @@
-framework module Pods_BrigewellSdk {
-  umbrella header "Pods-BrigewellSdk-umbrella.h"
-
-  export *
-  module * { export * }
-}
